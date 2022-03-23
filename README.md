@@ -1,7 +1,7 @@
 ## welcome to my github profile ✋🙏
 
 <div>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohroos&layout=compact&langs_count=7&theme=dracula&hide=javascript,html,css,mustache,typescript"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohroos&layout=compact&langs_count=7&theme=dracula&hide=javascript,html,css,mustache"/>
 </div>
 <div>
    <a href="https://instagram.com/gustavohroos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
