@@ -3,6 +3,7 @@
 👋 welcome to my GitHub profile! I'm a passionate developer with interest in data science, machine learning, and backend engineering. don't hesitate to contact me to talk about computer science!
 
 ### 🛠 core tools
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&color=F3F3F3&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&color=F3F3F3&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&color=F3F3F3&logoColor=black)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&color=F3F3F3&logoColor=black)
@@ -20,7 +21,6 @@
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&color=F3F3F3&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&color=F3F3F3&logoColor=black)
 ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=for-the-badge&logo=C&color=F3F3F3&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&color=F3F3F3&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=Rust&color=F3F3F3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&color=F3F3F3&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&color=F3F3F3&logoColor=black)
